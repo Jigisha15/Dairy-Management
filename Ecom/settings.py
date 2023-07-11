@@ -129,5 +129,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 
-RAZOR_KEY_ID = "rzp_test_mbtpOzOB0hNi9X"
-RAZOR_KEY_SECRET= "8lUHkE1OIqgWfGfAz1fpmwcT"
+RAZOR_KEY_ID = "YOUR_RAZOR_PAY_ID"
+RAZOR_KEY_SECRET= "YOUR_RAZOR_PAY_SECRET"
